@@ -1,0 +1,41 @@
+# UVa-Solutions
+
+- [ ] UVa 01047 - Zones
+- [x] UVa 00524 - Prime Ring Problem
+- [x] UVa 11565 - Simple Equations
+- [ ] UVa 10567 - Helping Fill Bates
+- [x] UVa 00183 - Bit Maps
+- [x] UVa 00357 - Let Me Count The Ways
+- [x] UVa 10306 - e-Coins
+- [x] UVa 11517 - Exact Change
+- [ ] UVa 00216 - Getting in Line
+- [ ] UVa 10496 - Collecting Beepers
+- [ ] UVa 11284 - Shopping Trip
+- [ ] UVa 10721 - Bar Codes
+- [ ] UVa 10086 - Test the Rods
+- [x] UVa 12455 - Bars
+- [x] UVa 11236 - Grocery Store
+- [x] UVa 10487 - Closest Sums
+- [x] UVa 12192 - Grapevine
+- [x] UVa 12032 - The Monkey ...
+- [x] UVa 00481 - What Goes Up?
+- [x] UVa 11456 - Trainsorting
+- [x] UVa 11790 - Murcia’s Skyline
+- [x] UVa 10616 - Divisible Group Sum
+- [x] UVa 10819 - Trouble of 13-Dots
+- [ ] UVa 11566 - Let’s Yum Cha
+- [ ] UVa 10943 - How do you add?
+- [ ] UVa 01261 - String Popping
+- [ ] UVa 01262 - Password
+- [ ] UVa 00574 - Sum It Up
+- [x] UVa 01237 - Expert Enough
+- [x] UVa 11057 - Exact Sum
+- [ ] UVa 11413 - Fill the ...
+- [ ] UVa 00787 - Maximum Sub ...
+- [x] UVa 10684 - The Jackpot
+- [ ] UVa 10755 - Garbage Heap
+- [ ] UVa 00108 - Maximum Sum
+- [ ] UVa 10827 - Maximum Sum on ...
+- [ ] UVa 11951 - Area
+- [ ] UVa 10337 - Flight Planner
+- [ ] UVa 00196 - Spreadsheet
