@@ -19,26 +19,18 @@
 
 using namespace std;
 
-class LeftAndRightHandedDiv2 {
+class TaroString {
 public:
-	int count(string);
+	string getAnswer(string);
 };
 
-int LeftAndRightHandedDiv2::count(string S) {
-	int res = 0;
+string TaroString::getAnswer(string S) {
+	int a = 0, b = 0, c= 0;
 	for(int i = 0; i < S.size() ; ++i){
-		if(S[i] == 'R' && S[i+1] == 'L'){
-			res++;
-			int temp = i;
-			S.erase(i,2);
-			i = temp;
-		}
-		else if(S[i] == 'L' && S[i-1] == 'R' && i >= 1){
-			res++;
-			int temp = i-1;
-			S.erase(i-1,2);
-			i = temp;
-		}
+		if(S[i] == 'C') a++;
+		if(S[i] == 'A') b++;
+		if(S[i] == 'T') c++;
 	}
-	return res;
+	if(a == 1 && b == 1 && c == 1) return "Possible";
+	return "Impossible";
 }
